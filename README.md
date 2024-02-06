@@ -3,7 +3,7 @@
 I really enjoy learning languages and frameworks like Angular, React, Astro, Nest JS, .Net.
 I also enjoy wireframing, UI-UX and design in general.
 
-<p align="center">
+<p style="margin-left: auto; margin-right: auto;">
 
 
 ![jhoset's Stats](https://github-readme-stats.vercel.app/api?username=jhoset&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
