@@ -1,7 +1,7 @@
 ### Hi there, I'm Jhoset 🙂
 
-I really enjoy learning languages and frameworks like Angular, React, Astro, Nest JS, .Net.
-I also enjoy wireframing, UI-UX and design in general.
+I enjoy Software Development and learning languages and frameworks like JS, C#, Python, Angular, React, Astro, Nest JS, and .Net. 
+I also have an interest in UI-UX design and design in general.
 
 ![jhoset's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhoset&theme=tokyonight&hide_border=true)
 
