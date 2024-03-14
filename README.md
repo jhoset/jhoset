@@ -4,7 +4,7 @@
 **`Digital Artist ( Software Engineer/Full Stack Developer/Creator )`**
 
 I'm a software engineer and sometimes content creator. 
-All coding projects are built from the ground up, from planning and designing all the way to solving the real-life problemas with code.
+All coding projects are built from the ground up, from planning and designing all the way to solving the real-life problems with code.
 
 <p align="center">
   <a href="https://www.youtube.com/@zer09815"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
@@ -20,7 +20,7 @@ All coding projects are built from the ground up, from planning and designing al
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-### 🧰 Languages and Tools
+<h3>🧰 Languages and Tools</h3>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
