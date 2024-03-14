@@ -49,8 +49,8 @@ All coding projects are built from the ground up, from planning and designing al
 
 #
 ### 📊 Stats
-![jhoset's Stats](https://github-readme-stats.vercel.app/api?username=jhoset&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![jhoset's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhoset&theme=tokyonight&hide_border=true)
+![jhoset's Stats](https://github-readme-stats.vercel.app/api?username=jhoset&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![jhoset's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhoset&theme=dracula&hide_border=true)
 
 #
 <details>
