@@ -52,7 +52,6 @@ All coding projects are built from the ground up, from planning and designing al
 ![jhoset's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhoset&theme=tokyonight&hide_border=true)
 
 #
-
 <details>
  <summary><h3>👨‍💻 Jhoset's Coding Journey</h3></summary>
    I started my journey in the world of programming as a naive computer science student passionate about learning everything I could about this world of programming: code, unix, linux, theory. And sometimes I taught myself the ropes of hacking tools, with the dream of being a professional in the world of computer security, but suddenly it was eclipsed by my desire to excel in web development. A desire that led me to land a software engineering position right out of college.  I still have a burning desire to get back on the horse, and fulfill that dream of my younger self to get into the security world. 
