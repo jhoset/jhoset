@@ -7,11 +7,11 @@ I'm a software engineer and sometimes content creator.
 All coding projects are built from the ground up, from planning and designing all the way to solving the real-life problems with code.
 
 <p align="center">
-  <a href="https://www.youtube.com/@zer09815"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a target="_blank" href="https://www.youtube.com/@zer09815"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jhoset-nina-b15220155/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/jhoset-nina-b15220155/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://jhosetdev.com"><img width="32px" alt="Dev.to" title="Jhoset Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a target="_blank" href="https://jhosetdev.com"><img width="32px" alt="Dev.to" title="Jhoset Portfolio" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <!-- <a href="https://discord.com/users/757246063450128467" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
